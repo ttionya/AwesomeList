@@ -9,6 +9,7 @@
 ## Contents 
 
 - [C](#c)  
+- [C++](#c++)  
 
 
 <br>
@@ -16,5 +17,10 @@
 ## C
 
 [**lab**](https://github.com/deepmind/lab): A customisable 3D platform for agent-based AI research  
+
+
+## C++
+
+[**kcws**](https://github.com/koth/kcws): Deep Learning Chinese Word Segment   
 
 

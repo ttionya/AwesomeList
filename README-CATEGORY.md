@@ -15,6 +15,9 @@
 
 ## Machine Learning
 
+[**kcws**](https://github.com/koth/kcws): Deep Learning Chinese Word Segment   
+
+
 [**lab**](https://github.com/deepmind/lab): A customisable 3D platform for agent-based AI research  
 
 
