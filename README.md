@@ -24,3 +24,6 @@
 - [**path-to-regexp**](https://github.com/pillarjs/path-to-regexp): Express-style path to regexp  
 
 
+- [**vue-router**](https://github.com/vuejs/vue-router): The official router for Vue.js.  
+
+
