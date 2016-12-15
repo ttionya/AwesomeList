@@ -27,3 +27,6 @@
 - [**vue-router**](https://github.com/vuejs/vue-router): The official router for Vue.js.  
 
 
+- [**vue-hackernews-2.0**](https://github.com/vuejs/vue-hackernews-2.0): HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering  
+
+

@@ -12,6 +12,7 @@
 - [Machine Learning](#machine-learning)  
 - [NodeJS](#nodejs)  
 - [Route](#route)  
+- [Server-Side Rendering](#server-side-rendering)  
 - [Vue](#vue)  
 
 
@@ -35,6 +36,9 @@
 [**path-to-regexp**](https://github.com/pillarjs/path-to-regexp): Express-style path to regexp  
 
 
+[**vue-hackernews-2.0**](https://github.com/vuejs/vue-hackernews-2.0): HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering  
+
+
 ## Route
 
 [**path-to-regexp**](https://github.com/pillarjs/path-to-regexp): Express-style path to regexp  
@@ -43,7 +47,15 @@
 [**vue-router**](https://github.com/vuejs/vue-router): The official router for Vue.js.  
 
 
+## Server-Side Rendering
+
+[**vue-hackernews-2.0**](https://github.com/vuejs/vue-hackernews-2.0): HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering  
+
+
 ## Vue
+
+[**vue-hackernews-2.0**](https://github.com/vuejs/vue-hackernews-2.0): HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering  
+
 
 [**vue-router**](https://github.com/vuejs/vue-router): The official router for Vue.js.  
 
