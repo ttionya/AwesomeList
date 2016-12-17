@@ -33,3 +33,6 @@
 - [**vue-meta**](https://github.com/declandewet/vue-meta): Manage page meta info in Vue 2.0 components. SSR + Streaming supported.  
 
 
+- [**flv.js**](https://github.com/Bilibili/flv.js): HTML5 FLV Player  
+
+

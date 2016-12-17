@@ -28,6 +28,9 @@
 
 ## JavaScript
 
+[**flv.js**](https://github.com/Bilibili/flv.js): HTML5 FLV Player  
+
+
 [**vue-hackernews-2.0**](https://github.com/vuejs/vue-hackernews-2.0): HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering  
 
 
