@@ -39,6 +39,9 @@
 [**vue-hackernews-2.0**](https://github.com/vuejs/vue-hackernews-2.0): HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering  
 
 
+[**vue-meta**](https://github.com/declandewet/vue-meta): Manage page meta info in Vue 2.0 components. SSR + Streaming supported.  
+
+
 ## Route
 
 [**path-to-regexp**](https://github.com/pillarjs/path-to-regexp): Express-style path to regexp  
@@ -55,6 +58,9 @@
 ## Vue
 
 [**vue-hackernews-2.0**](https://github.com/vuejs/vue-hackernews-2.0): HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering  
+
+
+[**vue-meta**](https://github.com/declandewet/vue-meta): Manage page meta info in Vue 2.0 components. SSR + Streaming supported.  
 
 
 [**vue-router**](https://github.com/vuejs/vue-router): The official router for Vue.js.  
