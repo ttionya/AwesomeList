@@ -18,6 +18,8 @@
 
 - [**colors.js**](https://github.com/Marak/colors.js): get colors in your node.js console
 
+- [**cross-env**](https://github.com/kentcdodds/cross-env): Cross platform setting of environment scripts
+
 ## F
 
 - [**flv.js**](https://github.com/Bilibili/flv.js): HTML5 FLV Player

@@ -42,3 +42,6 @@
 - [**chalk**](https://github.com/chalk/chalk): Terminal string styling done right  
 
 
+- [**cross-env**](https://github.com/kentcdodds/cross-env): Cross platform setting of environment scripts  
+
+
