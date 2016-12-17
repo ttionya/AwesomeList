@@ -39,6 +39,9 @@
 
 ## NodeJS
 
+[**colors.js**](https://github.com/Marak/colors.js): get colors in your node.js console  
+
+
 [**path-to-regexp**](https://github.com/pillarjs/path-to-regexp): Express-style path to regexp  
 
 

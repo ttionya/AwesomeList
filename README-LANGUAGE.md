@@ -28,6 +28,9 @@
 
 ## JavaScript
 
+[**colors.js**](https://github.com/Marak/colors.js): get colors in your node.js console  
+
+
 [**flv.js**](https://github.com/Bilibili/flv.js): HTML5 FLV Player  
 
 
