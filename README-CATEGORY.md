@@ -39,6 +39,9 @@
 
 ## NodeJS
 
+[**chalk**](https://github.com/chalk/chalk): Terminal string styling done right  
+
+
 [**colors.js**](https://github.com/Marak/colors.js): get colors in your node.js console  
 
 
