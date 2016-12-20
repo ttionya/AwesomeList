@@ -48,3 +48,6 @@
 - [**Surge**](https://github.com/lhie1/Surge): 新浪微博 @lhie1  
 
 
+- [**BaiduPanDownload**](https://github.com/Mrs4s/BaiduPanDownload): 百度网盘不限速下载工具  
+
+

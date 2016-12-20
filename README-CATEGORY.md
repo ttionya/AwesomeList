@@ -8,6 +8,7 @@
 
 ## Contents 
 
+- [BaiduYun](#baiduyun)  
 - [Express](#express)  
 - [FUCK GFW](#fuck-gfw)  
 - [JS Libraries](#js-libraries)  
@@ -19,6 +20,11 @@
 
 
 <br>
+
+## BaiduYun
+
+[**BaiduPanDownload**](https://github.com/Mrs4s/BaiduPanDownload): 百度网盘不限速下载工具  
+
 
 ## Express
 
