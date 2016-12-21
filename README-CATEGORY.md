@@ -72,6 +72,9 @@
 [**cross-env**](https://github.com/kentcdodds/cross-env): Cross platform setting of environment scripts  
 
 
+[**fis3**](https://github.com/fex-team/fis3): FIS3  
+
+
 [**path-to-regexp**](https://github.com/pillarjs/path-to-regexp): Express-style path to regexp  
 
 
