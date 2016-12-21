@@ -39,6 +39,9 @@
 
 ## Front-End Integration Tool
 
+[**fis3**](https://github.com/fex-team/fis3): FIS3  
+
+
 [**scrat**](https://github.com/scrat-team/scrat): Webapp Modular Framework  
 
 
