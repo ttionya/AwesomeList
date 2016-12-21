@@ -54,3 +54,6 @@
 - [**sprockets-rails**](https://github.com/rails/sprockets-rails): Sprockets Rails integration  
 
 
+- [**scrat**](https://github.com/scrat-team/scrat): Webapp Modular Framework  
+
+

@@ -39,6 +39,9 @@
 
 ## Front-End Integration Tool
 
+[**scrat**](https://github.com/scrat-team/scrat): Webapp Modular Framework  
+
+
 [**sprockets-rails**](https://github.com/rails/sprockets-rails): Sprockets Rails integration  
 
 
@@ -67,6 +70,9 @@
 
 
 [**path-to-regexp**](https://github.com/pillarjs/path-to-regexp): Express-style path to regexp  
+
+
+[**scrat**](https://github.com/scrat-team/scrat): Webapp Modular Framework  
 
 
 [**vue-hackernews-2.0**](https://github.com/vuejs/vue-hackernews-2.0): HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering  
