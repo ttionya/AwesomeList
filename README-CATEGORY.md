@@ -11,6 +11,7 @@
 - [BaiduYun](#baiduyun)  
 - [Express](#express)  
 - [FUCK GFW](#fuck-gfw)  
+- [Front-End Integration Tool](#front-end-integration-tool)  
 - [JS Libraries](#js-libraries)  
 - [Machine Learning](#machine-learning)  
 - [NodeJS](#nodejs)  
@@ -34,6 +35,11 @@
 ## FUCK GFW
 
 [**Surge**](https://github.com/lhie1/Surge): 新浪微博 @lhie1  
+
+
+## Front-End Integration Tool
+
+[**sprockets-rails**](https://github.com/rails/sprockets-rails): Sprockets Rails integration  
 
 
 ## JS Libraries

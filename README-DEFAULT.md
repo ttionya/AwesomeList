@@ -42,6 +42,8 @@
 
 ## S
 
+- [**sprockets-rails**](https://github.com/rails/sprockets-rails): Sprockets Rails integration
+
 - [**Surge**](https://github.com/lhie1/Surge): 新浪微博 @lhie1
 
 ## V
