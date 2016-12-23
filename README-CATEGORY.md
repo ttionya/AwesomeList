@@ -9,6 +9,7 @@
 ## Contents 
 
 - [BaiduYun](#baiduyun)  
+- [Blog](#blog)  
 - [Express](#express)  
 - [FUCK GFW](#fuck-gfw)  
 - [Front-End Integration Tool](#front-end-integration-tool)  
@@ -25,6 +26,11 @@
 ## BaiduYun
 
 [**BaiduPanDownload**](https://github.com/Mrs4s/BaiduPanDownload): 百度网盘不限速下载工具  
+
+
+## Blog
+
+[**blog**](https://github.com/fouber/blog): 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！  
 
 
 ## Express

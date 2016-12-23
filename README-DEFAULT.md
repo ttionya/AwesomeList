@@ -16,6 +16,8 @@
 
 - [**BaiduPanDownload**](https://github.com/Mrs4s/BaiduPanDownload): 百度网盘不限速下载工具
 
+- [**blog**](https://github.com/fouber/blog): 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
+
 ## C
 
 - [**chalk**](https://github.com/chalk/chalk): Terminal string styling done right
