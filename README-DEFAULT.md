@@ -8,7 +8,7 @@
 
 ## Contents 
 
-- [B](#b) - [C](#c) - [F](#f) - [K](#k) - [L](#l) - [P](#p) - [S](#s) - [V](#v) 
+- [B](#b) - [C](#c) - [F](#f) - [K](#k) - [L](#l) - [P](#p) - [S](#s) - [V](#v) - [W](#w) 
 
 <br>
 
@@ -59,4 +59,8 @@
 - [**vue-meta**](https://github.com/declandewet/vue-meta): Manage page meta info in Vue 2.0 components. SSR + Streaming supported.
 
 - [**vue-router**](https://github.com/vuejs/vue-router): The official router for Vue.js.
+
+## W
+
+- [**webpack-visualizer**](https://github.com/chrisbateman/webpack-visualizer): Visualize your Webpack bundle
 

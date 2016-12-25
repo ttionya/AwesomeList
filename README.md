@@ -63,3 +63,6 @@
 - [**blog**](https://github.com/fouber/blog): 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！  
 
 
+- [**webpack-visualizer**](https://github.com/chrisbateman/webpack-visualizer): Visualize your Webpack bundle  
+
+

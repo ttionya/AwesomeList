@@ -63,6 +63,9 @@
 [**vue-router**](https://github.com/vuejs/vue-router): The official router for Vue.js.  
 
 
+[**webpack-visualizer**](https://github.com/chrisbateman/webpack-visualizer): Visualize your Webpack bundle  
+
+
 ## Ruby
 
 [**sprockets-rails**](https://github.com/rails/sprockets-rails): Sprockets Rails integration  

@@ -8,7 +8,7 @@
 
 ## Contents 
 
-- [B](#b) - [C](#c) - [F](#f) - [K](#k) - [L](#l) - [P](#p) - [S](#s) - [V](#v) 
+- [B](#b) - [C](#c) - [F](#f) - [K](#k) - [L](#l) - [P](#p) - [S](#s) - [V](#v) - [W](#w) 
 
 <br>
 
@@ -74,5 +74,10 @@
 
 
 [**vue-router**](https://github.com/vuejs/vue-router): The official router for Vue.js.  
+
+
+## W
+
+[**webpack-visualizer**](https://github.com/chrisbateman/webpack-visualizer): Visualize your Webpack bundle  
 
 
