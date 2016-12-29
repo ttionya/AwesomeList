@@ -35,6 +35,9 @@
 [**blog**](https://github.com/fouber/blog): 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！  
 
 
+[**blog**](https://github.com/xufei/blog): my personal blog  
+
+
 ## Express
 
 [**path-to-regexp**](https://github.com/pillarjs/path-to-regexp): Express-style path to regexp  

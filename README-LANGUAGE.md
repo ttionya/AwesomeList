@@ -90,6 +90,9 @@
 [**blog**](https://github.com/fouber/blog): 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！  
 
 
+[**blog**](https://github.com/xufei/blog): my personal blog  
+
+
 [**Surge**](https://github.com/lhie1/Surge): 新浪微博 @lhie1  
 
 

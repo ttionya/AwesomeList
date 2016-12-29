@@ -72,3 +72,6 @@
 - [**wooyun_public**](https://github.com/hanc00l/wooyun_public): 乌云公开漏洞、知识库爬虫和搜索   crawl and search for wooyun.org public bug(vulnerability) and drops  
 
 
+- [**blog**](https://github.com/xufei/blog): my personal blog  
+
+

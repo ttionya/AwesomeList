@@ -18,6 +18,8 @@
 
 - [**blog**](https://github.com/fouber/blog): 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
 
+- [**blog**](https://github.com/xufei/blog): my personal blog
+
 ## C
 
 - [**chalk**](https://github.com/chalk/chalk): Terminal string styling done right
