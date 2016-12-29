@@ -75,3 +75,6 @@
 - [**blog**](https://github.com/xufei/blog): my personal blog  
 
 
+- [**normalize.css**](https://github.com/necolas/normalize.css): A collection of HTML element and attribute style-normalizations  
+
+

@@ -11,6 +11,7 @@
 - [C](#c)  
 - [C#](#c#)  
 - [C++](#c++)  
+- [HTML](#html)  
 - [JavaScript](#javascript)  
 - [Python](#python)  
 - [Ruby](#ruby)  
@@ -33,6 +34,11 @@
 ## C++
 
 [**kcws**](https://github.com/koth/kcws): Deep Learning Chinese Word Segment   
+
+
+## HTML
+
+[**normalize.css**](https://github.com/necolas/normalize.css): A collection of HTML element and attribute style-normalizations  
 
 
 ## JavaScript
