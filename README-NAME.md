@@ -57,6 +57,9 @@
 
 ## N
 
+[**nanobar**](https://github.com/jacoborus/nanobar): Very lightweight progress bars. No jQuery  
+
+
 [**normalize.css**](https://github.com/necolas/normalize.css): A collection of HTML element and attribute style-normalizations  
 
 

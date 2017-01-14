@@ -87,3 +87,6 @@
 - [**loaders.css**](https://github.com/ConnorAtherton/loaders.css): Delightful, performance-focused pure css loading animations.  
 
 
+- [**nanobar**](https://github.com/jacoborus/nanobar): Very lightweight progress bars. No jQuery  
+
+

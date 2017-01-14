@@ -67,6 +67,9 @@
 [**flv.js**](https://github.com/Bilibili/flv.js): HTML5 FLV Player  
 
 
+[**nanobar**](https://github.com/jacoborus/nanobar): Very lightweight progress bars. No jQuery  
+
+
 [**scrat**](https://github.com/scrat-team/scrat): Webapp Modular Framework  
 
 
