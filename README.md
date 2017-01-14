@@ -96,3 +96,6 @@
 - [**nprogress**](https://github.com/rstacruz/nprogress): For slim progress bars like on YouTube, Medium, etc  
 
 
+- [**vue-progressbar**](https://github.com/hilongjw/vue-progressbar): A lightweight progress bar for vue  
+
+

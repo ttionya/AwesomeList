@@ -76,6 +76,8 @@
 
 - [**vue-meta**](https://github.com/declandewet/vue-meta): Manage page meta info in Vue 2.0 components. SSR + Streaming supported.
 
+- [**vue-progressbar**](https://github.com/hilongjw/vue-progressbar): A lightweight progress bar for vue
+
 - [**vue-router**](https://github.com/vuejs/vue-router): The official router for Vue.js.
 
 ## W

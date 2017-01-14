@@ -138,12 +138,18 @@
 [**turbolinks**](https://github.com/turbolinks/turbolinks): Turbolinks makes navigating your web application faster  
 
 
+[**vue-progressbar**](https://github.com/hilongjw/vue-progressbar): A lightweight progress bar for vue  
+
+
 ## Vue
 
 [**vue-hackernews-2.0**](https://github.com/vuejs/vue-hackernews-2.0): HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering  
 
 
 [**vue-meta**](https://github.com/declandewet/vue-meta): Manage page meta info in Vue 2.0 components. SSR + Streaming supported.  
+
+
+[**vue-progressbar**](https://github.com/hilongjw/vue-progressbar): A lightweight progress bar for vue  
 
 
 [**vue-router**](https://github.com/vuejs/vue-router): The official router for Vue.js.  
