@@ -73,6 +73,9 @@
 
 ## Loading
 
+[**loaders.css**](https://github.com/ConnorAtherton/loaders.css): Delightful, performance-focused pure css loading animations.  
+
+
 [**SpinKit**](https://github.com/tobiasahlin/SpinKit): A collection of loading indicators animated with CSS  
 
 

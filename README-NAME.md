@@ -52,6 +52,9 @@
 [**lab**](https://github.com/deepmind/lab): A customisable 3D platform for agent-based AI research  
 
 
+[**loaders.css**](https://github.com/ConnorAtherton/loaders.css): Delightful, performance-focused pure css loading animations.  
+
+
 ## N
 
 [**normalize.css**](https://github.com/necolas/normalize.css): A collection of HTML element and attribute style-normalizations  
