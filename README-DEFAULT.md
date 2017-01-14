@@ -50,6 +50,8 @@
 
 - [**normalize.css**](https://github.com/necolas/normalize.css): A collection of HTML element and attribute style-normalizations
 
+- [**nprogress**](https://github.com/rstacruz/nprogress): For slim progress bars like on YouTube, Medium, etc
+
 ## P
 
 - [**path-to-regexp**](https://github.com/pillarjs/path-to-regexp): Express-style path to regexp

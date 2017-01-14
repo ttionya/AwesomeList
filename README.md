@@ -93,3 +93,6 @@
 - [**turbolinks**](https://github.com/turbolinks/turbolinks): Turbolinks makes navigating your web application faster  
 
 
+- [**nprogress**](https://github.com/rstacruz/nprogress): For slim progress bars like on YouTube, Medium, etc  
+
+

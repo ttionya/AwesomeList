@@ -76,6 +76,9 @@
 [**nanobar**](https://github.com/jacoborus/nanobar): Very lightweight progress bars. No jQuery  
 
 
+[**nprogress**](https://github.com/rstacruz/nprogress): For slim progress bars like on YouTube, Medium, etc  
+
+
 [**scrat**](https://github.com/scrat-team/scrat): Webapp Modular Framework  
 
 
