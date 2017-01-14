@@ -67,6 +67,9 @@
 [**scrat**](https://github.com/scrat-team/scrat): Webapp Modular Framework  
 
 
+[**SpinKit**](https://github.com/tobiasahlin/SpinKit): A collection of loading indicators animated with CSS  
+
+
 [**sprockets-rails**](https://github.com/rails/sprockets-rails): Sprockets Rails integration  
 
 

@@ -9,6 +9,7 @@
 ## Contents 
 
 - 2016: [12](#201612)   
+- 2017: [1](#20171)   
 
 
 <br>
@@ -76,5 +77,10 @@
 
 
 - [**normalize.css**](https://github.com/necolas/normalize.css): A collection of HTML element and attribute style-normalizations  
+
+
+## 2017.1
+
+- [**SpinKit**](https://github.com/tobiasahlin/SpinKit): A collection of loading indicators animated with CSS  
 
 

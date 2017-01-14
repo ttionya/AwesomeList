@@ -15,6 +15,7 @@
 - [FUCK GFW](#fuck-gfw)  
 - [Front-End Integration Tool](#front-end-integration-tool)  
 - [JS Libraries](#js-libraries)  
+- [Loading](#loading)  
 - [Machine Learning](#machine-learning)  
 - [NodeJS](#nodejs)  
 - [Route](#route)  
@@ -68,6 +69,11 @@
 ## JS Libraries
 
 [**flv.js**](https://github.com/Bilibili/flv.js): HTML5 FLV Player  
+
+
+## Loading
+
+[**SpinKit**](https://github.com/tobiasahlin/SpinKit): A collection of loading indicators animated with CSS  
 
 
 ## Machine Learning

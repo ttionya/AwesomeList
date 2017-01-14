@@ -11,6 +11,7 @@
 - [C](#c)  
 - [C#](#c#)  
 - [C++](#c++)  
+- [CSS](#css)  
 - [HTML](#html)  
 - [JavaScript](#javascript)  
 - [Python](#python)  
@@ -34,6 +35,11 @@
 ## C++
 
 [**kcws**](https://github.com/koth/kcws): Deep Learning Chinese Word Segment   
+
+
+## CSS
+
+[**SpinKit**](https://github.com/tobiasahlin/SpinKit): A collection of loading indicators animated with CSS  
 
 
 ## HTML
