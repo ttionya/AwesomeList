@@ -132,6 +132,9 @@
 [**nanobar**](https://github.com/jacoborus/nanobar): Very lightweight progress bars. No jQuery  
 
 
+[**turbolinks**](https://github.com/turbolinks/turbolinks): Turbolinks makes navigating your web application faster  
+
+
 ## Vue
 
 [**vue-hackernews-2.0**](https://github.com/vuejs/vue-hackernews-2.0): HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering  

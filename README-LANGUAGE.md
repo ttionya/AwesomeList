@@ -12,6 +12,7 @@
 - [C#](#c#)  
 - [C++](#c++)  
 - [CSS](#css)  
+- [CoffeeScript](#coffeescript)  
 - [HTML](#html)  
 - [JavaScript](#javascript)  
 - [Python](#python)  
@@ -43,6 +44,11 @@
 
 
 [**SpinKit**](https://github.com/tobiasahlin/SpinKit): A collection of loading indicators animated with CSS  
+
+
+## CoffeeScript
+
+[**turbolinks**](https://github.com/turbolinks/turbolinks): Turbolinks makes navigating your web application faster  
 
 
 ## HTML
