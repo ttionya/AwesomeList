@@ -102,6 +102,9 @@
 [**fis3**](https://github.com/fex-team/fis3): FIS3  
 
 
+[**n**](https://github.com/tj/n): Node version management  
+
+
 [**nrm**](https://github.com/Pana/nrm): NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao  
 
 

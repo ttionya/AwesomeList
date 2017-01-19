@@ -17,6 +17,7 @@
 - [JavaScript](#javascript)  
 - [Python](#python)  
 - [Ruby](#ruby)  
+- [Shell](#shell)  
 - [TypeScript](#typescript)  
 - [Other](#other)  
 
@@ -111,6 +112,11 @@
 ## Ruby
 
 [**sprockets-rails**](https://github.com/rails/sprockets-rails): Sprockets Rails integration  
+
+
+## Shell
+
+[**n**](https://github.com/tj/n): Node version management  
 
 
 ## TypeScript
