@@ -52,6 +52,8 @@
 
 - [**nprogress**](https://github.com/rstacruz/nprogress): For slim progress bars like on YouTube, Medium, etc
 
+- [**nrm**](https://github.com/Pana/nrm): NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao
+
 ## P
 
 - [**path-to-regexp**](https://github.com/pillarjs/path-to-regexp): Express-style path to regexp

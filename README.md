@@ -99,3 +99,6 @@
 - [**vue-progressbar**](https://github.com/hilongjw/vue-progressbar): A lightweight progress bar for vue  
 
 
+- [**nrm**](https://github.com/Pana/nrm): NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao  
+
+

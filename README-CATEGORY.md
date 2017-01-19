@@ -102,6 +102,9 @@
 [**fis3**](https://github.com/fex-team/fis3): FIS3  
 
 
+[**nrm**](https://github.com/Pana/nrm): NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao  
+
+
 [**path-to-regexp**](https://github.com/pillarjs/path-to-regexp): Express-style path to regexp  
 
 
