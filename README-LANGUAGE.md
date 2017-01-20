@@ -119,6 +119,9 @@
 [**n**](https://github.com/tj/n): Node version management  
 
 
+[**nvm**](https://github.com/creationix/nvm): Node Version Manager - Simple bash script to manage multiple active node.js versions  
+
+
 ## TypeScript
 
 [**path-to-regexp**](https://github.com/pillarjs/path-to-regexp): Express-style path to regexp  

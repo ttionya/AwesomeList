@@ -108,6 +108,9 @@
 [**nrm**](https://github.com/Pana/nrm): NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao  
 
 
+[**nvm**](https://github.com/creationix/nvm): Node Version Manager - Simple bash script to manage multiple active node.js versions  
+
+
 [**path-to-regexp**](https://github.com/pillarjs/path-to-regexp): Express-style path to regexp  
 
 
