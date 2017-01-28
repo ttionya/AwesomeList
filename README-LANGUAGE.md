@@ -124,6 +124,9 @@
 
 ## TypeScript
 
+[**autocomplete.js**](https://github.com/autocompletejs/autocomplete.js): autocomplete.js is lite, fast and stable.  
+
+
 [**path-to-regexp**](https://github.com/pillarjs/path-to-regexp): Express-style path to regexp  
 
 

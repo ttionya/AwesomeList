@@ -108,3 +108,6 @@
 - [**nvm**](https://github.com/creationix/nvm): Node Version Manager - Simple bash script to manage multiple active node.js versions  
 
 
+- [**autocomplete.js**](https://github.com/autocompletejs/autocomplete.js): autocomplete.js is lite, fast and stable.  
+
+

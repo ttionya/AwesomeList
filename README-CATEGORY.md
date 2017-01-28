@@ -69,6 +69,9 @@
 
 ## JS Libraries
 
+[**autocomplete.js**](https://github.com/autocompletejs/autocomplete.js): autocomplete.js is lite, fast and stable.  
+
+
 [**flv.js**](https://github.com/Bilibili/flv.js): HTML5 FLV Player  
 
 
