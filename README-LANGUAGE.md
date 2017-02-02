@@ -15,6 +15,7 @@
 - [CoffeeScript](#coffeescript)  
 - [HTML](#html)  
 - [JavaScript](#javascript)  
+- [PHP](#php)  
 - [Python](#python)  
 - [Ruby](#ruby)  
 - [Shell](#shell)  
@@ -102,6 +103,11 @@
 
 
 [**webpack-visualizer**](https://github.com/chrisbateman/webpack-visualizer): Visualize your Webpack bundle  
+
+
+## PHP
+
+[**Laravel-Markdown**](https://github.com/GrahamCampbell/Laravel-Markdown): A CommonMark wrapper for Laravel 5  
 
 
 ## Python

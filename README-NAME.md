@@ -60,6 +60,9 @@
 [**lab**](https://github.com/deepmind/lab): A customisable 3D platform for agent-based AI research  
 
 
+[**Laravel-Markdown**](https://github.com/GrahamCampbell/Laravel-Markdown): A CommonMark wrapper for Laravel 5  
+
+
 [**loaders.css**](https://github.com/ConnorAtherton/loaders.css): Delightful, performance-focused pure css loading animations.  
 
 
