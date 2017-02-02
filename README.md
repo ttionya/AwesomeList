@@ -9,7 +9,7 @@
 ## Contents 
 
 - 2016: [12](#201612)   
-- 2017: [1](#20171)   
+- 2017: [1](#20171) [2](#20172)   
 
 
 <br>
@@ -109,5 +109,10 @@
 
 
 - [**autocomplete.js**](https://github.com/autocompletejs/autocomplete.js): autocomplete.js is lite, fast and stable.  
+
+
+## 2017.2
+
+- [**crx-selection-translate**](https://github.com/Selection-Translator/crx-selection-translate): 让浏览任意语言的网站变得无比轻松的 Chrome 扩展程序。  
 
 

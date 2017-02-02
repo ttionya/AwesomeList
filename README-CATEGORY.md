@@ -11,6 +11,7 @@
 - [BaiduYun](#baiduyun)  
 - [Blog](#blog)  
 - [CSS](#css)  
+- [Chrome Extension](#chrome-extension)  
 - [Express](#express)  
 - [FUCK GFW](#fuck-gfw)  
 - [Front-End Integration Tool](#front-end-integration-tool)  
@@ -21,6 +22,7 @@
 - [Route](#route)  
 - [Server-Side Rendering](#server-side-rendering)  
 - [Top Progress Bar](#top-progress-bar)  
+- [Translate](#translate)  
 - [Vue](#vue)  
 - [Webpack](#webpack)  
 - [WooYun](#wooyun)  
@@ -44,6 +46,11 @@
 ## CSS
 
 [**normalize.css**](https://github.com/necolas/normalize.css): A collection of HTML element and attribute style-normalizations  
+
+
+## Chrome Extension
+
+[**crx-selection-translate**](https://github.com/Selection-Translator/crx-selection-translate): 让浏览任意语言的网站变得无比轻松的 Chrome 扩展程序。  
 
 
 ## Express
@@ -151,6 +158,11 @@
 
 
 [**vue-progressbar**](https://github.com/hilongjw/vue-progressbar): A lightweight progress bar for vue  
+
+
+## Translate
+
+[**crx-selection-translate**](https://github.com/Selection-Translator/crx-selection-translate): 让浏览任意语言的网站变得无比轻松的 Chrome 扩展程序。  
 
 
 ## Vue

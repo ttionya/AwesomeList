@@ -39,6 +39,9 @@
 [**cross-env**](https://github.com/kentcdodds/cross-env): Cross platform setting of environment scripts  
 
 
+[**crx-selection-translate**](https://github.com/Selection-Translator/crx-selection-translate): 让浏览任意语言的网站变得无比轻松的 Chrome 扩展程序。  
+
+
 ## F
 
 [**fis3**](https://github.com/fex-team/fis3): FIS3  
