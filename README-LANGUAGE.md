@@ -55,6 +55,9 @@
 
 ## HTML
 
+[**markdown**](https://github.com/cebe/markdown): A super fast, highly extensible markdown parser for PHP  
+
+
 [**normalize.css**](https://github.com/necolas/normalize.css): A collection of HTML element and attribute style-normalizations  
 
 

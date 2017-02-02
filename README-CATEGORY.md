@@ -104,6 +104,9 @@
 [**Laravel-Markdown**](https://github.com/GrahamCampbell/Laravel-Markdown): A CommonMark wrapper for Laravel 5  
 
 
+[**markdown**](https://github.com/cebe/markdown): A super fast, highly extensible markdown parser for PHP  
+
+
 ## NodeJS
 
 [**chalk**](https://github.com/chalk/chalk): Terminal string styling done right  

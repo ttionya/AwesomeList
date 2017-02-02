@@ -8,7 +8,7 @@
 
 ## Contents 
 
-- [A](#a) - [B](#b) - [C](#c) - [F](#f) - [K](#k) - [L](#l) - [N](#n) - [P](#p) - [S](#s) - [T](#t) - [V](#v) - [W](#w) 
+- [A](#a) - [B](#b) - [C](#c) - [F](#f) - [K](#k) - [L](#l) - [M](#m) - [N](#n) - [P](#p) - [S](#s) - [T](#t) - [V](#v) - [W](#w) 
 
 <br>
 
@@ -64,6 +64,11 @@
 
 
 [**loaders.css**](https://github.com/ConnorAtherton/loaders.css): Delightful, performance-focused pure css loading animations.  
+
+
+## M
+
+[**markdown**](https://github.com/cebe/markdown): A super fast, highly extensible markdown parser for PHP  
 
 
 ## N
