@@ -90,6 +90,9 @@
 [**nrm**](https://github.com/Pana/nrm): NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao  
 
 
+[**prism**](https://github.com/PrismJS/prism): Lightweight, robust, elegant syntax highlighting.  
+
+
 [**scrat**](https://github.com/scrat-team/scrat): Webapp Modular Framework  
 
 

@@ -96,6 +96,9 @@
 [**path-to-regexp**](https://github.com/pillarjs/path-to-regexp): Express-style path to regexp  
 
 
+[**prism**](https://github.com/PrismJS/prism): Lightweight, robust, elegant syntax highlighting.  
+
+
 ## S
 
 [**scrat**](https://github.com/scrat-team/scrat): Webapp Modular Framework  

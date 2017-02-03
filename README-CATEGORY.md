@@ -158,6 +158,9 @@
 
 ## Syntax Highlight
 
+[**prism**](https://github.com/PrismJS/prism): Lightweight, robust, elegant syntax highlighting.  
+
+
 [**syntaxhighlighter**](https://github.com/syntaxhighlighter/syntaxhighlighter): SyntaxHighlighter is a fully functional self-contained code syntax highlighter developed in JavaScript.  
 
 
