@@ -122,3 +122,6 @@
 - [**markdown**](https://github.com/cebe/markdown): A super fast, highly extensible markdown parser for PHP  
 
 
+- [**syntaxhighlighter**](https://github.com/syntaxhighlighter/syntaxhighlighter): SyntaxHighlighter is a fully functional self-contained code syntax highlighter developed in JavaScript.  
+
+

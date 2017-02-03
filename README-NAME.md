@@ -110,6 +110,9 @@
 [**Surge**](https://github.com/lhie1/Surge): 新浪微博 @lhie1  
 
 
+[**syntaxhighlighter**](https://github.com/syntaxhighlighter/syntaxhighlighter): SyntaxHighlighter is a fully functional self-contained code syntax highlighter developed in JavaScript.  
+
+
 ## T
 
 [**turbolinks**](https://github.com/turbolinks/turbolinks): Turbolinks makes navigating your web application faster  

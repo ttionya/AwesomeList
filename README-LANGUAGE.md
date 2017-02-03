@@ -93,6 +93,9 @@
 [**scrat**](https://github.com/scrat-team/scrat): Webapp Modular Framework  
 
 
+[**syntaxhighlighter**](https://github.com/syntaxhighlighter/syntaxhighlighter): SyntaxHighlighter is a fully functional self-contained code syntax highlighter developed in JavaScript.  
+
+
 [**vue-hackernews-2.0**](https://github.com/vuejs/vue-hackernews-2.0): HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering  
 
 
