@@ -81,6 +81,9 @@
 [**flv.js**](https://github.com/Bilibili/flv.js): HTML5 FLV Player  
 
 
+[**highlight.js**](https://github.com/isagalaev/highlight.js): Javascript syntax highlighter  
+
+
 [**nanobar**](https://github.com/jacoborus/nanobar): Very lightweight progress bars. No jQuery  
 
 

@@ -8,7 +8,7 @@
 
 ## Contents 
 
-- [A](#a) - [B](#b) - [C](#c) - [F](#f) - [K](#k) - [L](#l) - [M](#m) - [N](#n) - [P](#p) - [S](#s) - [T](#t) - [V](#v) - [W](#w) 
+- [A](#a) - [B](#b) - [C](#c) - [F](#f) - [H](#h) - [K](#k) - [L](#l) - [M](#m) - [N](#n) - [P](#p) - [S](#s) - [T](#t) - [V](#v) - [W](#w) 
 
 <br>
 
@@ -39,6 +39,10 @@
 - [**fis3**](https://github.com/fex-team/fis3): FIS3
 
 - [**flv.js**](https://github.com/Bilibili/flv.js): HTML5 FLV Player
+
+## H
+
+- [**highlight.js**](https://github.com/isagalaev/highlight.js): Javascript syntax highlighter
 
 ## K
 

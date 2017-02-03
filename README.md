@@ -128,3 +128,6 @@
 - [**prism**](https://github.com/PrismJS/prism): Lightweight, robust, elegant syntax highlighting.  
 
 
+- [**highlight.js**](https://github.com/isagalaev/highlight.js): Javascript syntax highlighter  
+
+
