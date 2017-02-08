@@ -131,3 +131,6 @@
 - [**highlight.js**](https://github.com/isagalaev/highlight.js): Javascript syntax highlighter  
 
 
+- [**toc**](https://github.com/jgallen23/toc): jQuery Table of Contents Plugin  
+
+

@@ -94,6 +94,8 @@
 
 ## T
 
+- [**toc**](https://github.com/jgallen23/toc): jQuery Table of Contents Plugin
+
 - [**turbolinks**](https://github.com/turbolinks/turbolinks): Turbolinks makes navigating your web application faster
 
 ## V

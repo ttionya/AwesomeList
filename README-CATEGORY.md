@@ -23,11 +23,13 @@
 - [Route](#route)  
 - [Server-Side Rendering](#server-side-rendering)  
 - [Syntax Highlight](#syntax-highlight)  
+- [TOC](#toc)  
 - [Top Progress Bar](#top-progress-bar)  
 - [Translate](#translate)  
 - [Vue](#vue)  
 - [Webpack](#webpack)  
 - [WooYun](#wooyun)  
+- [jQuery Plugins](#jquery-plugins)  
 
 
 <br>
@@ -167,6 +169,11 @@
 [**syntaxhighlighter**](https://github.com/syntaxhighlighter/syntaxhighlighter): SyntaxHighlighter is a fully functional self-contained code syntax highlighter developed in JavaScript.  
 
 
+## TOC
+
+[**toc**](https://github.com/jgallen23/toc): jQuery Table of Contents Plugin  
+
+
 ## Top Progress Bar
 
 [**nanobar**](https://github.com/jacoborus/nanobar): Very lightweight progress bars. No jQuery  
@@ -211,5 +218,10 @@
 
 
 [**wooyun_search**](https://github.com/grt1st/wooyun_search): 乌云公开漏洞、知识库搜索 search from wooyun.org  
+
+
+## jQuery Plugins
+
+[**toc**](https://github.com/jgallen23/toc): jQuery Table of Contents Plugin  
 
 
