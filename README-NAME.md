@@ -126,6 +126,9 @@
 [**toc**](https://github.com/jgallen23/toc): jQuery Table of Contents Plugin  
 
 
+[**toc**](https://github.com/ndabas/toc): Table of Contents jQuery Plugin - A minimal, tiny jQuery plugin that will generate a table of contents, drawing from headings on the page.  
+
+
 [**turbolinks**](https://github.com/turbolinks/turbolinks): Turbolinks makes navigating your web application faster  
 
 
