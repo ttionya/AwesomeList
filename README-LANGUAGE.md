@@ -14,6 +14,7 @@
 - [CSS](#css)  
 - [CoffeeScript](#coffeescript)  
 - [HTML](#html)  
+- [Java](#java)  
 - [JavaScript](#javascript)  
 - [PHP](#php)  
 - [Python](#python)  
@@ -59,6 +60,11 @@
 
 
 [**normalize.css**](https://github.com/necolas/normalize.css): A collection of HTML element and attribute style-normalizations  
+
+
+## Java
+
+[**material-theme-jetbrains**](https://github.com/ChrisRM/material-theme-jetbrains): JetBrains theme of Material Theme  
 
 
 ## JavaScript

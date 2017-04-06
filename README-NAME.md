@@ -76,6 +76,9 @@
 [**markdown**](https://github.com/cebe/markdown): A super fast, highly extensible markdown parser for PHP  
 
 
+[**material-theme-jetbrains**](https://github.com/ChrisRM/material-theme-jetbrains): JetBrains theme of Material Theme  
+
+
 ## N
 
 [**n**](https://github.com/tj/n): Node version management  

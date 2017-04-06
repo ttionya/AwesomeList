@@ -24,6 +24,7 @@
 - [Server-Side Rendering](#server-side-rendering)  
 - [Syntax Highlight](#syntax-highlight)  
 - [TOC](#toc)  
+- [Theme](#theme)  
 - [Top Progress Bar](#top-progress-bar)  
 - [Translate](#translate)  
 - [Vue](#vue)  
@@ -175,6 +176,11 @@
 
 
 [**toc**](https://github.com/ndabas/toc): Table of Contents jQuery Plugin - A minimal, tiny jQuery plugin that will generate a table of contents, drawing from headings on the page.  
+
+
+## Theme
+
+[**material-theme-jetbrains**](https://github.com/ChrisRM/material-theme-jetbrains): JetBrains theme of Material Theme  
 
 
 ## Top Progress Bar

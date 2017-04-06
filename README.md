@@ -9,7 +9,7 @@
 ## Contents 
 
 - 2016: [12](#201612)   
-- 2017: [1](#20171) [2](#20172)   
+- 2017: [1](#20171) [2](#20172) [4](#20174)   
 
 
 <br>
@@ -135,5 +135,10 @@
 
 
 - [**toc**](https://github.com/ndabas/toc): Table of Contents jQuery Plugin - A minimal, tiny jQuery plugin that will generate a table of contents, drawing from headings on the page.  
+
+
+## 2017.4
+
+- [**material-theme-jetbrains**](https://github.com/ChrisRM/material-theme-jetbrains): JetBrains theme of Material Theme  
 
 
