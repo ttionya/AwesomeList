@@ -117,6 +117,9 @@
 [**toc**](https://github.com/ndabas/toc): Table of Contents jQuery Plugin - A minimal, tiny jQuery plugin that will generate a table of contents, drawing from headings on the page.  
 
 
+[**vConsole**](https://github.com/WechatFE/vConsole): A lightweight, extendable front-end developer tool for mobile web page.  
+
+
 [**vue-hackernews-2.0**](https://github.com/vuejs/vue-hackernews-2.0): HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering  
 
 
