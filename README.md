@@ -142,3 +142,6 @@
 - [**material-theme-jetbrains**](https://github.com/ChrisRM/material-theme-jetbrains): JetBrains theme of Material Theme  
 
 
+- [**eruda**](https://github.com/liriliri/eruda): Console for mobile browsers  
+
+

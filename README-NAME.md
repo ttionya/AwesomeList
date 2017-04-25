@@ -8,7 +8,7 @@
 
 ## Contents 
 
-- [A](#a) - [B](#b) - [C](#c) - [F](#f) - [H](#h) - [K](#k) - [L](#l) - [M](#m) - [N](#n) - [P](#p) - [S](#s) - [T](#t) - [V](#v) - [W](#w) 
+- [A](#a) - [B](#b) - [C](#c) - [E](#e) - [F](#f) - [H](#h) - [K](#k) - [L](#l) - [M](#m) - [N](#n) - [P](#p) - [S](#s) - [T](#t) - [V](#v) - [W](#w) 
 
 <br>
 
@@ -40,6 +40,11 @@
 
 
 [**crx-selection-translate**](https://github.com/Selection-Translator/crx-selection-translate): 让浏览任意语言的网站变得无比轻松的 Chrome 扩展程序。  
+
+
+## E
+
+[**eruda**](https://github.com/liriliri/eruda): Console for mobile browsers  
 
 
 ## F
