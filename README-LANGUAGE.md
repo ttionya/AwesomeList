@@ -31,6 +31,9 @@
 [**lab**](https://github.com/deepmind/lab): A customisable 3D platform for agent-based AI research  
 
 
+[**pngquant**](https://github.com/pornel/pngquant): Lossy PNG compressor — pngquant command and libimagequant library  
+
+
 ## C#
 
 [**BaiduPanDownload**](https://github.com/Mrs4s/BaiduPanDownload): 百度网盘不限速下载工具  

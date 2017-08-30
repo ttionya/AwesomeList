@@ -109,6 +109,9 @@
 [**path-to-regexp**](https://github.com/pillarjs/path-to-regexp): Express-style path to regexp  
 
 
+[**pngquant**](https://github.com/pornel/pngquant): Lossy PNG compressor — pngquant command and libimagequant library  
+
+
 [**prism**](https://github.com/PrismJS/prism): Lightweight, robust, elegant syntax highlighting.  
 
 

@@ -15,6 +15,7 @@
 - [Express](#express)  
 - [FUCK GFW](#fuck-gfw)  
 - [Front-End Integration Tool](#front-end-integration-tool)  
+- [Image Compress](#image-compress)  
 - [JS Libraries](#js-libraries)  
 - [Loading](#loading)  
 - [Machine Learning](#machine-learning)  
@@ -78,6 +79,11 @@
 
 
 [**sprockets-rails**](https://github.com/rails/sprockets-rails): Sprockets Rails integration  
+
+
+## Image Compress
+
+[**pngquant**](https://github.com/pornel/pngquant): Lossy PNG compressor — pngquant command and libimagequant library  
 
 
 ## JS Libraries
